@@ -1,4 +1,4 @@
-package ksy.webproj.config;
+package com.example.hanteoproject2;
 
 import com.querydsl.jpa.impl.JPAQueryFactory;
 import org.springframework.context.annotation.Bean;
